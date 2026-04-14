@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+pdf2image
+python-multipart
+python-docx
+sqlmodel
+sqlalchemy
+boto3
+
